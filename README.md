@@ -18,8 +18,6 @@ This project analyzes flood risk zones for Siloam Springs, AR to support infrast
 5. **Visualization:** Created publication-quality maps
 
 ## 🗺️ Key Outputs
-- Flood risk zone maps with 100-year and 500-year flood boundaries
-- Infrastructure vulnerability assessment
 <img width="707" height="490" alt="Flood Risk Analysis" src="https://github.com/user-attachments/assets/03ace9a2-c68c-4514-a0b4-27c486fca65f" />
 
 ## 💡 Skills Demonstrated
