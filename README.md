@@ -25,15 +25,5 @@ This project analyzes flood risk zones for Siloam Springs, AR to support infrast
 ## 💡 Skills Demonstrated
 `GIS Analysis` `QGIS` `Flood Risk Assessment` `Spatial Analysis` `Data Visualization` `Infrastructure Planning`
 
-## 📁 Project Structure
-```
-flood-analysis/
-├── data/           # Raw and processed datasets
-├── maps/           # Output maps and visualizations  
-├── docs/           # Methodology and findings
-└── README.md
-```
-
-
 ## 📧 Contact
 Questions or collaboration opportunities? Connect with me on [[LinkedIn](https://www.linkedin.com/in/yolanys-aranda-ms/)]
