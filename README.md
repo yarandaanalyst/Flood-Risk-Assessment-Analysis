@@ -1,5 +1,5 @@
 # Flood Risk Assessment Analysis
-Comprehensive flood hazard mapping using QGIS and FEMA data
+*Comprehensive flood hazard mapping using QGIS and FEMA data*
 
 ## 🎯 Project Overview
 This project analyzes flood risk zones for Siloam Springs, AR to support infrastructure planning and risk mitigation strategies.
